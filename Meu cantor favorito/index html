@@ -1,0 +1,50 @@
+<html>
+<head>
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>MEU CANTOR FAVORITO - Ana Castela</title>
+</head>
+
+<body>
+
+<h1>Ana Castela - A Boiadeira</h1>
+
+<p>
+Ana Castela é uma cantora sertaneja brasileira conhecida como "A Boiadeira".
+Ela ficou famosa com o sucesso "Pipoco" e conquistou o Brasil com seu estilo
+sertanejo moderno misturado com o agro.
+</p>
+
+<h2>Músicas de Sucesso</h2>
+
+<a href="https://www.youtube.com/watch?v=mpfoY3Sg2c8" target="_blank">Pipoco</a><br>
+<a href="https://www.youtube.com/watch?v=j0F4m6yEjgI" target="_blank">Solteiro Forçado</a><br>
+<a href="https://www.youtube.com/watch?v=1z9a3CB4QAk" target="_blank">Boiadeira</a>
+
+<h2>Trecho da Música "Boiadeira"</h2>
+
+<p>
+"Depois que me conheceu já quis se mudar aqui pro interior  
+Deixa o carro na garagem pra andar de mangalarga marchador  
+O cabelo Chanel deu lugar pro chapéu, tá cheia de terra a unha de gel  
+A patricinha virou boiadeira..."
+</p>
+
+<h2>Frase Marcante</h2>
+
+<p>
+"Ficar até tarde acordado escutando história, daria todo o meu dinheiro pra ter isso agora."
+</p>
+
+<h2>Imagem da Cantora</h2>
+
+<img src="Fotos da Ana Castela .png" width="350">
+
+<h3>Instagram Oficial</h3>
+<a href="https://www.instagram.com/anacastelacantora/" target="_blank">
+@anacastelacantora
+</a>
+
+</body>
+</html>
